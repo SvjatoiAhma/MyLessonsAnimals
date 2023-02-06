@@ -1,6 +1,6 @@
 package svjat.animals;
 
- /*public class StartPoint {
+ public class StartPoint {
     public static void main(String[] args) {
 
         Animals horse = new Horse();
@@ -12,18 +12,14 @@ package svjat.animals;
         System.out.println(sharkIsAnimals);
         boolean pigIsShark = pig.equals(shark);
         boolean pigIsHorse = pig.equals(horse);
+        boolean pigIsPig = pig.equals(pig);
+            System.out.println(pigIsPig);
 
-        int countDown = 5;
 
-        while (countDown >= 0) {
-            System.out.println("До старта: " + countDown);
-            countDown --;
-        }
 
-        System.out.println("Поехали !");
 
         }
 
 
-} */
+}
 
